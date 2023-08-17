@@ -65,8 +65,7 @@ City, State, ZIP
 | Customs & Port Fees          | 1        | $120.00    | $120.00      |
 | **Total**                    |          |            | **$1,020.00**|
 
----
-** Please note all charges in TTD will vary when converted to XCD (Eastern Caribbean Dollar)  and is indicative on the daily ROE by local commercial banks, rates are not determined by Miranda Distribution Limited.**
+- ** Please note all charges in TTD will vary when converted to XCD (Eastern Caribbean Dollar)  and is indicative on the daily ROE by local commercial banks, rates are not determined by Miranda Distribution Limited.**
 **Payment Information:**
 Bank: XYZ Bank
 Account Name: Miranda Distribution Limited
@@ -177,4 +176,65 @@ As you can see, in this scenario, by receiving payment in XCD, converting to USD
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------
+                      **PROFORMA INVOICE**
 
+From: Miranda Distribution Limited (Trinidad)
+To: Miranda Distribution Limited (Grenada)
+Date: [Date]
+Proforma Invoice Number: [Proforma Invoice Number]
+
+-------------------------------------------------------------------------------
+
+Bill To:
+Theresa McBurnie
+[Blaize Street Address]
+St. Andrews, Grenada
+[Email Address]
+[Phone Number]
+
+Ship To:
+Mrs. Francis
+[Grenville Address]
+Grenville, Grenada
+
+-------------------------------------------------------------------------------
+
+| Description              | Quantity | Unit Price (TTD) | Total Price (TTD) |
+|--------------------------|----------|------------------|-------------------|
+| Multigrain Cereal (100pc)| 100 pcs  | $3.00/pc         | $300.00           |
+
+-------------------------------------------------------------------------------
+
+Subtotal (TTD):                         $300.00
+Shipping and Handling Fees (TTD):        $200.00
+-------------------------------------------------------------------------------
+Total Amount (TTD):                    $500.00
+
+-------------------------------------------------------------------------------
+
+Currency Conversion: 1 TTD = 2.2 XCD
+
+-------------------------------------------------------------------------------
+
+Subtotal (XCD):                          $660.00
+Shipping and Handling Fees (XCD):         $440.00
+-------------------------------------------------------------------------------
+Total Amount (XCD):                     $1,100.00
+
+-------------------------------------------------------------------------------
+
+**Shipping Details:**
+Shipping Vessel: Ocean Princess
+
+-------------------------------------------------------------------------------
+
+Please note all charges in TTD will vary when converted to XCD (Eastern Caribbean Dollar) and is indicative of the daily Rate of Exchange (ROE) by local commercial banks. Rates are not determined by Miranda Distribution Limited.
+
+-------------------------------------------------------------------------------
+
+This is a proforma invoice and does not indicate the actual payment due.
+-------------------------------------------------------------------------------
+
+For inquiries regarding this proforma invoice, please contact [Your Contact Information].
+-------------------------------------------------------------------------------
