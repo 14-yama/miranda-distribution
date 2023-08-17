@@ -1,0 +1,4 @@
+- [ ] Trinidad Bank Account
+- [x] Seperations of Concerns: Grenada> Precurment & Trinidad>Warehouse, delivery, shipping & handling, freight forwarding
+- [ ] Grenada business registration
+- [ ] 
