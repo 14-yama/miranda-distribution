@@ -66,7 +66,7 @@ City, State, ZIP
 | **Total**                    |          |            | **$1,020.00**|
 
 ---
-
+** Please note all charges in TTD will vary when converted to XCD (Eastern Caribbean Dollar)  and is indicative on the daily ROE by local commercial banks, rates are not determined by Miranda Distribution Limited.**
 **Payment Information:**
 Bank: XYZ Bank
 Account Name: Miranda Distribution Limited
@@ -174,5 +174,7 @@ XCD Payment (Current Scenario):
 
 Profit: $244.02 TTD
 As you can see, in this scenario, by receiving payment in XCD, converting to USD, and selling USD on FOREX, Miranda Distribution Limited achieves a higher profit of $244.02 TTD compared to the USD payment scenario.
+
+----------------------------------------------------------------------------------------------------------------------------
 
 
