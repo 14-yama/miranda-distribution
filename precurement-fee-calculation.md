@@ -3,7 +3,7 @@
 Calculating a procurement agent's fee can vary based on factors such as the complexity of the procurement, the time and effort involved, and the standard practices in your industry. Here's a suggested method to calculate the procurement agent's fee:
 
 1. **Determine the Base Fee Rate:**
-   Start by establishing a base fee rate, which is a percentage of the total procurement value. This percentage can vary based on industry standards, the complexity of the request, and the expertise of your procurement team. A common range is between 1% to 5% of the total procurement value.
+   Start by establishing a base fee rate, which is a percentage of the total procurement value. This percentage can vary based on industry standards, the complexity of the request, and the expertise of your procurement team. A common range is between 1% to 5% of the total procurement value. 1%: client makes intital contact with supplier, Miranda continue negotiation. 2%: 30mins negotiation. 3%: Multiple-day negotiation. 4%: negotiation & short visits. 5%: Multiple-day negotiation, short visits.
 
 2. **Evaluate Complexity and Time:**
    Consider the complexity of the procurement request. More complex requests might involve extensive research, negotiation, and coordination. Estimate the number of hours your procurement agent will need to dedicate to fulfilling the request.
