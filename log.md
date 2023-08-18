@@ -1,4 +1,11 @@
 - [ ] Trinidad Bank Account
-- [x] Seperations of Concerns: Grenada> Precurment & Trinidad>Warehouse, delivery, shipping & handling, freight forwarding
+- [ ] Grenada Bank Account
 - [ ] Grenada business registration
-- [ ] 
+- [ ] Hermidar: Director PIN#
+- [x] Seperations of Concerns: Grenada> Precurment & Trinidad> Warehouse, delivery, shipping & handling, freight forwarding
+- [ ] Grenada business registration
+- [ ] E-Commerce Website
+- [ ] Miranda: About US
+- [ ] Miranda: Precurement & Logistics Services
+- [ ] how to calculate fees
+      
