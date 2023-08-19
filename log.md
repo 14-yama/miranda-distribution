@@ -7,5 +7,5 @@
 - [ ] E-Commerce Website
 - [ ] Miranda: About US
 - [ ] Miranda: Precurement & Logistics Services
-- [ ] how to calculate fees
+- [x] how to calculate fees
       
