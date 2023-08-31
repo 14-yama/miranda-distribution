@@ -4,7 +4,7 @@
 - [ ] Hermidar: Director PIN#
 - [x] Seperations of Concerns: Grenada> Precurment & Trinidad> Warehouse, delivery, shipping & handling, freight forwarding
 - [ ] Grenada business registration
-- [ ] Miranda Theme
+- [x] Miranda Theme: GlobeFarer theme WordPress (Yellow & Black)
 - [ ] E-Commerce Website
 - [ ] Billboard Slogons
 - [x] Miranda: About US
