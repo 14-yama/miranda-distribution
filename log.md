@@ -4,8 +4,13 @@
 - [ ] Hermidar: Director PIN#
 - [x] Seperations of Concerns: Grenada> Precurment & Trinidad> Warehouse, delivery, shipping & handling, freight forwarding
 - [ ] Grenada business registration
+- [ ] Miranda Theme
 - [ ] E-Commerce Website
-- [ ] Miranda: About US
-- [ ] Miranda: Precurement & Logistics Services
+- [ ] Billboard Slogons
+- [x] Miranda: About US
+- [x] Miranda: Precurement & Logistics Services
 - [x] how to calculate fees
+- [ ] Billboard Slogons
+- [ ]
+- [ ] 
       
