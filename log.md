@@ -1,16 +1,16 @@
-- [ ] Trinidad Bank Account
-- [ ] Grenada Bank Account
-- [ ] Grenada business registration
-- [ ] Hermidar: Director PIN#
-- [x] Seperations of Concerns: Grenada> Precurment & Trinidad> Warehouse, delivery, shipping & handling, freight forwarding
-- [ ] Grenada business registration
-- [x] Miranda Theme: GlobeFarer theme WordPress (Yellow & Black)
-- [ ] E-Commerce Website
-- [ ] Billboard Slogons
-- [x] Miranda: About US
-- [x] Miranda: Precurement & Logistics Services
-- [x] how to calculate fees
-- [ ] Billboard Slogons
-- [ ]
-- [ ] 
-      
+## 4th Oct, 2023 F.I.R.E Goal:
+- 100% Outsourced
+- 100% Online task Automation
+- 100% USD transactions
+- Manufactured Products: Dehydrated Fruits
+- [Guyana Imports](guyana-imports.md)
+- Services: Regional Logistics
+- Passive Investment: 1 Acre Real Estate
+- Expected Portfolio: $530,000 USD
+- Expedition Vessel
+
+
+
+
+
+ 
