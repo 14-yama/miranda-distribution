@@ -3,7 +3,7 @@
 - delete one company profile
 - create 3- year cash flow project
 - wordpress personal subscription:$9 @6GB Storage
-- YR1 Quarter 1 & 2 Expenses:Transport 800/month, Logistics Software $1/month, Web Hosting $20/month, Raw Material #300/quarter,Client Engagement $50/month,Bank Account Maintenance Fees $60/month,Business Credit Lines $50/month, wordpress subscription $61/month
+- YR1 Quarter 1 & 2 Expenses:Transport 800/month, Logistics Software $1/month,Raw Material #300/quarter,Client Engagement $50/month,Bank Account Maintenance Fees $60/month,Business Credit Lines $50/month, wordpress subscription $61/month
 - YR1 Quarter 3 & 4 Expenses:Labor Costs $30/hr, Marketing and Promotional Expenses 400/quarter
 - 
 
