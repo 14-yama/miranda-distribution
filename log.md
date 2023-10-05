@@ -1,3 +1,9 @@
+
+## 5th Oct, 2023 CashFlow & Quickbooks Subscription:
+- delete one company profile
+- create 3- year cash flow project
+
+
 ## 4th Oct, 2023 F.I.R.E Goal:
 Embarking on my F.I.R.E. journey, which commenced on September 9, 2021, my unwavering goal is to achieve financial independence and retire early by my 45th birthday. With seven years remaining in my journey, I'm committed to pursuing diverse objectives, including the construction of an expedition vessel for a globe-circumnavigation adventure and establishing a self-sufficient community for the underprivileged.
 
