@@ -1,3 +1,47 @@
+### Date: October 7, 2023
+
+**Summary:**
+The company has decided to transition from Excel to QuickBooks for enhanced financial management. Plans include training sessions on creating a chart of accounts. Additionally, the company aims to open USD and TTD business checking accounts.
+
+**Details:**
+
+### Financial Software Transition to QuickBooks:
+
+- **Decision-Making Process:**
+  - Company leadership evaluated the benefits of transitioning from Excel to QuickBooks for streamlined financial processes.
+  - Identified the need for better tracking, reporting, and financial management capabilities.
+
+- **Training Plans:**
+  - Decided to conduct training sessions for staff on using QuickBooks effectively.
+  - Training focus: Creating a chart of accounts tailored to the needs of a transport and logistics company.
+
+- **Timeline:**
+  - Training sessions planned to commence on October 15, 2023.
+  - Objective: Ensure all staff members are proficient in QuickBooks by the end of November.
+  - submit all bank requirements by October 13, 2023
+
+### Business Checking Accounts:
+
+- **Decision to Open USD and TTD Accounts:**
+  - Recognized the importance of having separate business checking accounts in USD and TTD currencies for international transactions.
+  - Aiming to facilitate smoother financial operations and clearer accounting records.
+
+- **Bank Account Application Process:**
+  - Set a deadline for submitting bank account applications: No later than October 13, 2023.
+  - Researching local banks with favorable terms for business accounts.
+  - Gathering necessary documentation for the application process.
+
+- **Considerations:**
+  - Exploring features such as online banking, transaction limits, and fees associated with each bank.
+
+**Objectives for Tomorrow:**
+
+- Initiate contact with selected banks to inquire about the business account application process.
+- Draft a preliminary chart of accounts for the upcoming QuickBooks training sessions.
+
+### Reflection:
+
+The decision to transition to QuickBooks and open dedicated business checking accounts reflects the company's commitment to efficient financial management. The training initiative aims to empower staff with the necessary skills for seamless software adoption. Initiating the bank account application process aligns with the company's goals for international business transactions and financial clarity.
 
 ## 5th Oct, 2023 CashFlow & Quickbooks Subscription:
 - delete one company profile
