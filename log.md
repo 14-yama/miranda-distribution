@@ -144,3 +144,89 @@ Looking ahead, my ultimate financial milestone is to achieve an expected portfol
 | Marketing and Advertising Budget for Product Launch| 10.00% | $1,000.00  |
 
 **Total Budget: $10,000.00**
+
+## Logistics Company Activity Log
+
+### Date: August 30, 2023
+
+### Activity:
+Provided transport services to Ms. Tanielle Lewis. This job was referred to me from a friend. Ms. Lewis paid for the services in USD.
+
+### Feedback:
+Received positive feedback from Ms. Lewis regarding the transport services.
+
+### Metrics:
+Recorded the successful completion of the transport service and payment received in USD.
+
+### Objectives:
+Ensured a smooth and satisfactory transport experience for Ms. Lewis.
+
+### Next Steps:
+1. **Follow-up:** Contacted Ms. Lewis on September 5, 2023, offering to facilitate a foreign exchange transaction for USD.
+2. **Foreign Exchange Transaction:** Ms. Lewis agreed to sell 100 USD in the transaction.
+
+### Training:
+Ensured that the team is aware of the additional service of foreign exchange transactions for clients paying in USD.
+
+### Celebration:
+Acknowledged the successful completion of the transport service and the additional foreign exchange transaction service.
+
+### Tech Upgrade:
+Reviewed our systems to incorporate foreign exchange transaction records.
+
+### Goals:
+Explored the opportunity for additional services and client satisfaction.
+
+### Customer Engagement:
+Maintained proactive communication with Ms. Lewis, offering additional services and ensuring a positive customer experience.
+
+### Outcomes:
+Ms. Lewis expressed interest in using our logistics services a few days after the initial service on August 30, 2023. She officially contacted us on September 29, 2023, confirming her interest. The transaction for logistics services is planned for October 10, 2023.
+
+### Additional Information:
+The initial contact with Ms. Tanielle Lewis was on August 30, 2023, when we provided transport services. This led to further engagement, including a foreign exchange transaction and her expressed interest in logistics services.
+
+
+### Date: June 30, 2023
+
+### Activity:
+Colin Henry made contact with me. I first met Colin through a friend from Guyana last year. He stated that he needs my services for procuring a deep fryer for his new restaurant. I provided a quote, but he was not interested.
+
+### Feedback:
+Noted Colin Henry's initial lack of interest in the provided quote for the deep fryer.
+
+### Metrics:
+Logged the communication and quote provision for the deep fryer service.
+
+### Objectives:
+Attempted to meet Colin Henry's needs for procuring equipment for his new restaurant.
+
+### Next Steps:
+1. **Follow-up:** On August 31, 2023, Colin contacted me again, this time to procure some condiments and spices with a pickup at his mother's residence.
+2. **Offer Expansion:** Over the next few weeks, I offered additional goods that could be beneficial for his restaurant.
+3. **Quotation:** Provided a quote for the agreed-upon goods, with some hesitation from Colin.
+4. **Alternative Offers:** Sensing hesitation, I offered alternative goods and services.
+5. **Trust Building:** Agreed to send the cargo to Grenada before payment to build trust.
+6. **Payment Collection:** An agent collected the money from Colin days after the transaction on September 20, 2023.
+
+### Training:
+Emphasized the importance of flexibility and offering alternatives to meet client needs.
+
+### Celebration:
+Acknowledged the successful negotiation and agreement with Colin Henry, building a positive business relationship.
+
+### Tech Upgrade:
+Reviewed systems to ensure seamless order processing and payment collection.
+
+### Goals:
+Successfully met Colin Henry's needs for procuring goods for his restaurant, demonstrating flexibility in offerings.
+
+### Customer Engagement:
+Maintained effective communication throughout the negotiation, ensuring Colin's needs were understood and addressed.
+
+### Outcomes:
+Established a successful business relationship with Colin Henry, overcoming initial hesitation and providing goods for his restaurant. The transaction, conducted in Eastern Caribbean Dollars, was completed on September 20, 2023.
+
+### Additional Information:
+The initial contact with Colin Henry was on June 30, 2023, regarding the procurement of a deep fryer. Subsequent engagements led to a successful transaction for condiments and spices for his restaurant, showcasing the flexibility and adaptability of our logistics services.
+
