@@ -1,4 +1,10 @@
-
+## October 11, 2023
+- this quarter i will focus on local logistics services for college students
+- register tradeWinds logictics at company registries
+- consult accountant about business owning another business
+- focus on lauching website for the new year after bank account application
+- extend tradeWind to Grenada in 3rd Quarter
+- local market needs credibility for my services
 ## October 10, 2023
 - how do you handle tips in accounting
 - client reschedule delivery time
