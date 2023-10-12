@@ -1,3 +1,10 @@
+
+## October 10, 2023
+- how do you handle tips in accounting
+- client reschedule delivery time
+- potential in local marketing for logistics services amount foreign students
+- World Trade represents: Admiral Bay III, Mary G, Rananna J
+
 ## October 8, 2023
 
 **Summary:**
