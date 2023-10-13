@@ -26,6 +26,7 @@ Today marked a crucial decision in transitioning the location for my business op
 **Objectives for new week:**
 
 - Confirm readiness for the office address transition.
+- Confirm with Company Registry on how to amend the addresses on Annual Returns
 - Prepare necessary documentation for the visit to Companies Registries on October 16.
 
 
