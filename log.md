@@ -1,6 +1,7 @@
 ## October 13, 2023 - Update
 
 **Overseas Transactions and Exchange Rate Confusion:**
+
 In the course of conducting overseas transactions, a notable challenge has emerged concerning the exchange rate and client understanding, leading to potential concerns about overcharging.
 
 **Details:**
