@@ -1,3 +1,60 @@
+## October 24, 2023
+
+**Busy Day in Procurement and Logistics:**
+Today's log outlines a busy day focused on fulfilling procurement requests, navigating supplier interactions, and handling logistics for exportation.
+
+**Details:**
+
+### Procurement Requests:
+
+- **Colin Henry's Order:**
+  - Received a request from Colin Henry for 2 bags of potatoes, 1 bag of onions, 1 bag of garlic from Bunny Imports Limited.
+  - Also, procured 30 packs of Lam's Chowmain noodles, large packs of garlic powder, paprika, and chili pepper from Karibbean Flavors.
+  - Purchased 200 biodegradable lunch boxes from NMT Limited.
+  - 2 packs of napkins from RC Distributors.
+  
+- **Challenges in Sourcing:**
+  - Faced challenges in obtaining the 490ml Busta beverage from SM Jaleel.
+  - Explored sourcing oil from PriceMart but opted for 2 packs of napkins from RC Distributors due to unexpected membership costs.
+
+- **Bartender Supplies:**
+  - Acquired shot glasses and other bartender items from IAM Co.
+  - Finalized the procurement with the purchase of 78 packs of Angostura LLB.
+
+### Logistics and Shipping:
+
+- **Port Visit:**
+  - Arrived at the port just before closing time to facilitate the shipping process.
+  - Engaged a porter to load the cargo on a pallet.
+
+- **Document Handling:**
+  - Paid $340 for shipping documents and negotiated shipping costs down from $600 to $400.
+  - Appreciated the convenience of dealing with MV Mary G, with a pleasant agent facilitating cargo collection.
+  - Mary G agent suggested that I load my cargo in boxes to avoid paying for a $600 pallet. She showed a box, made from 4 pallets to form a cube,is a good alternative-$300.
+  - Mary G charges $60 per box.
+
+- **Client Billing:**
+  - Planned charges for Colin Henry: $300 for transportation services and $280 for procurement services.
+  - Noted the second order from Colin within the same month, indicating a growing business relationship.
+
+- **Online Transaction Challenges:**
+  - Encountered difficulties with online transactions, experiencing the third decline with the credit card.
+  - All successful purchases made over the counter, highlighting a need to address online payment issues.
+
+- **Business Growth Considerations:**
+  - Acknowledged the maxed-out capacity of the current vehicle for cargo transport.
+  - Envisioned the potential need to invest in a van soon, especially if business growth continues.
+
+**Objectives for Tomorrow:**
+
+- Investigate and resolve credit card issues for online transactions.
+- Finalize and confirm shipping details with MV Mary G.
+- Reflect on today's challenges and strategize improvements for future procurement.
+
+### Reflection:
+
+Today's activities showcased the operational challenges and successes in procurement and logistics. Despite encountering sourcing hurdles, successful negotiations and a growing client base, especially with Colin Henry, bode well for the company's future. The day's challenges also underscored the need to address online transaction issues and plan for potential business expansion in terms of transport capacity.
+
 ## October 23, 2023
 
 **Exploration of Cheese Straw Distribution:**
