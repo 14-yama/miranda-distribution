@@ -1,3 +1,64 @@
+## November 9, 2023
+
+**Focus on Agri Processing Unit and Market Research:**
+
+Today, my attention is dedicated to the development of the Agri Processing unit within my business. The goal is to establish a year-round supply of fruits for a juice concentrate business, catering to establishments such as hotels, hospitals, and businesses with a substantial weekly juice consumption exceeding 55 liters.
+
+**Details:**
+
+### Passion Fruit as a Key Flavor:
+
+- **Global Production Insights:**
+  - Research reveals that Brazil is the leading producer of passion fruit, contributing to about 90% of the world's production.
+  - Other notable producers include Peru, Venezuela, South Africa, Sri Lanka, and Australia.
+
+- **Passion Fruit Details:**
+  - Passion Fruit Variety: Gulupa Ecuadorian.
+  - Sizes: F (≥74-83 g), E (>83-106 g), D (>106-122 g), D (≤56 mm min), C (>122-128 g).
+  - Forms: Pulp-Seeded, Concentrate, Puree.
+  - Packaging Types: Tub, Plastic Punnets, Carton Box, as per customer's request.
+  - Color: Yellow
+  -  Cultivation Type: Organic
+  -  Processed Style: Frozen, Fresh Frozen, Fresh.
+
+### Pineapple Sourcing and Storage Considerations:
+
+- **Cost Considerations:**
+  - Pineapple is identified as expensive in the local market, prompting exploration for cost-effective sourcing options.
+  - Guyana emerges as the first choice for pineapple procurement.
+
+- **Storage Planning:**
+  - Recognizing the need for storage, pricing for a deep freeze is on the agenda to ensure efficient operations.
+
+### Market Research and Competition Analysis:
+
+- **Local Competition Assessment:**
+  - Investigating the local market to identify existing juice concentrate offerings and understand the competitive landscape.
+  - Aiming to stock exotic flavors in the market to stand out from the competition.
+
+### Strategic Partnership and Future Plans:
+
+- **Operational Delegation:**
+  - Considering the option of partnering with someone locally in Trinidad to manage and run the day-to-day operations of the Agri Processing unit.
+
+- **Marketplace Exploration:**
+  - Exploring potential suppliers and marketplaces, such as [Tridge Marketplace](https://www.tridge.com/marketplace/basic-supplies/SUY-9EE0BDA8), for necessary supplies.
+
+### Future Product Expansion:
+
+- **High Demand Fruit Sourcing:**
+  - Recognizing the demand for soursop, plans are in motion to source this fruit to expand the product range.
+
+**Next Steps:**
+
+- Finalize the sourcing strategy for passion fruit and pineapple.
+- Evaluate the cost and feasibility of acquiring a deep freeze for storage.
+- Continue market research and identify potential partners for the Agri Processing unit.
+
+**Reflection:**
+
+Today's focus on Agri Processing lays the foundation for a strategic move into the juice concentrate market. Sourcing high-demand fruits and exploring partnerships will play a crucial role in the success of this venture.
+
 ## November 11, 2023
 
 **Business Account Success and Future Plans:**
