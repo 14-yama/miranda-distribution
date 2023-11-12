@@ -1,3 +1,52 @@
+## November 12, 2023
+
+**Company Domain Registration and Cargo Logistics Planning:**
+
+Today's log highlights the pivotal steps taken in registering the company domain, www.mirandadistribution.com, with professional emails, and the initiation of plans for streamlined cargo logistics through online platforms.
+
+**Details:**
+
+### Domain Registration:
+
+- **Choice Plan with Bluehost:**
+  - Successfully registered the company domain, www.mirandadistribution.com, with Bluehost's Choice Plan.
+  - Opted for the plan offering 40GB storage and 3 domain names for $59.40 USD.
+
+- **Professional Emails:**
+  - Set up professional emails associated with the domain to enhance business communication.
+
+### Cargo Logistics Exploration:
+
+- **Cargo AI and IATA-CASS Roadblock:**
+  - Explored the benefits of Cargo AI for online cargo space booking, but encountered a roadblock due to the requirement for an IATA-CASS number.
+  - Initiated the process of becoming a registered cargo agent but realized the need for extensive documentation.
+
+- **Alternative Solution - Freightos:**
+  - Discovered the ease of finding cost-effective import solutions using Freightos.
+  - Currently exploring air shipping providers for weekly perishable food imports from Guyana.
+
+- **Airline Quotes:**
+  - Facing the task of contacting regional airlines, with a focus on Caribbean Airlines and LIAT, to obtain competitive quotes for cargo transportation.
+
+### Domain Strategy and Payment Platforms:
+
+- **Dual Domain Approach:**
+  - Planned to create two domains—one for the local market focusing on fresh and frozen fruits and another for Caricom customers procuring goods from neighboring islands.
+
+- **Payment Platforms:**
+  - Local market transactions to utilize Scotia Bank's ecommerce platform.
+  - Caricom customers quoted in XCD dollars, with transactions processed through the XCD bank account, followed by USD conversion for import operations.
+
+### Future Tasks:
+
+- **Procurement Tasks:**
+  - Acknowledged the pending completion of various procurement tasks.
+  - Recognized the need to prioritize finding an air or cargo carrier for efficient goods transportation.
+
+**Reflection:**
+
+The day marked significant progress in establishing the online presence of Miranda Distribution and devising a strategic plan for efficient cargo logistics. The dual-domain approach aims to cater to both local and Caricom markets, providing tailored payment solutions for each segment.
+
 ## November 10, 2023
 
 **Bank Visit and Strategic Considerations for Forex Operations:**
