@@ -1,3 +1,55 @@
+## November 13, 2023
+
+**Exploring Feasibility: In-House vs. Imported Food Production Unit:**
+
+Today's log centers around the intricate decision-making process regarding the food production unit of the business, specifically focusing on Dhalpuri, and the feasibility of in-house production versus importing the finished product.
+
+### Cost Analysis:
+
+**1. Shipping and Handling Costs:**
+   - Airfare: $1700 TTD for 100kg
+
+
+### Labor Importation Proposal:
+
+**1. Labor Cost:**
+   - Proposed wages: $5000 per month
+   - Airfare: $2285 per person
+   - Duration: 2 months per cook
+   - Importing 2 cooks alternately for diversified production
+
+### Production Cost Comparison:
+
+**1. Imported Dhalpuri:**
+   - Cost: $2170 for 100kg
+   - excludes customs, local agent, transport costs
+
+**2. In-House Production:**
+   - Estimated Cost: $2620 for 100kg
+
+### Insights and Considerations:
+
+1. **Logistic Horrors vs. Cost Control:**
+   - In-house production allows for greater control over the cost per unit but may require careful management of logistics and operations.
+
+2. **Diversification Potential:**
+   - Importing skilled labor offers the opportunity to produce a variety of Guyanese foods, leveraging the expertise of experienced cooks.
+
+3. **Brainstorming Approach:**
+   - Dedicating 100 hours for the remainder of the year to brainstorm this business unit ensures a thorough exploration of possibilities and challenges.
+
+### Decision-Making Process:
+
+The decision between in-house production and importing the finished product involves a nuanced consideration of logistical complexities, cost control, and potential diversification. The proposed labor importation model introduces skilled cooks to enhance production capabilities.
+
+### Further Research:
+
+Exploring local production recipes and methodologies, considering scalability, and assessing local market preferences for Guyanese foods.
+
+**Reflection:**
+
+Today's analysis provides a solid foundation for evaluating the pros and cons of in-house versus imported production. The dedicated brainstorming time will further refine this decision-making process and contribute to the long-term success of the food production unit.
+
 ## November 12, 2023
 
 **Understanding Forex Notation and Leveraging Forex in Caricom Trade:**
