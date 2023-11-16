@@ -3,3 +3,9 @@
 | Daycare   | $950    | 28th     |
 | Rent      | $3000   | 28th     |
 | Flow      |         | 28th     |
+| T&TEC     |         | 28th     |
+| QuickBooks      |         | 28th     |
+
+
+- Credit Card Trials:
+- LivePlan Standard
