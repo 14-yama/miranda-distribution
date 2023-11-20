@@ -1,3 +1,32 @@
+## November 20, 2023
+
+**Exploration of Logistics and Market Expansion:**
+
+### Collaboration with Vietnamese Company:
+
+- Engaged in ongoing communication with www.sapodaklak.com for the procurement of fresh, dried, and frozen fruits.
+- Explored shipping options and determined that sending frozen goods via air is not economical, leading to the consideration of a 20ft container shipment.
+
+### Logistics and Cold Storage Investigation:
+
+- Conducted research on local storage facilities for both dry and cold storage.
+- Discovered affordable rates for dry storage units: $1150TTD for a 10x10' unit and $310TTD for a 5x5' unit, indicating an average price of $11 per sq/ft.
+- Recognized the need to investigate prices for cold storage facilities to facilitate the storage of frozen goods.
+
+### Economy of Scale and Overhead Considerations:
+
+- Contemplated the potential benefits of economy of scale in terms of price per kg with larger shipments.
+- Acknowledged the likelihood of increased overhead expenses associated with larger-scale shipments.
+
+### Tomorrow's Plan:
+
+- Finalize the import license for Grenada to facilitate the importation process.
+- Continue exploring cold storage facility options and pricing to make informed decisions.
+
+### Reflection:
+
+Today's focus on logistics and market expansion has opened up new possibilities for the marketing of exotic fruits in the regional market. The consideration of larger shipments brings both opportunities and challenges, requiring careful evaluation of the associated costs and benefits.
+
 ## November 19, 2023
 
 **Professional Outreach and Product Understanding:**
