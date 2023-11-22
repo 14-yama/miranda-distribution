@@ -1,3 +1,37 @@
+## November 21, 2023
+
+**Market Research and Potential Collaborations:**
+
+### Procurement Services for ExxonMobil-Associated Company:
+
+- Received information from an associate in Guyana regarding challenges faced by a company associated with ExxonMobil in sourcing parts for trucks and excavators.
+- Planned to request more information about the company next week and draft a letter outlining procurement services, highlighting my company's sourcing capabilities from industry leaders in Trinidad & Tobago.
+
+### Interaction at Cost Cutters Supermarket:
+
+- Conducted research on passion fruit beverages and cocktails at Cost Cutters Supermarket.
+- Connected with a Guyanese-born businesswoman who produces cinnamon-flavored oats.
+- Identified potential collaboration opportunities and exchanged contacts for further discussion on Monday, November 27, 2023.
+
+### Research Findings:
+
+- Discovered a local juice beverage and two cocktails at Cost Cutters Supermarket that incorporate passion fruit pulp and concentrate.
+- Interacted with a local juice seller who highlighted the popularity of passion fruit flavor, indicating its status as a best-seller during the fruit's season.
+
+### Business Development Initiatives:
+
+- Initiated discussions with local juice makers to explore the possibility of wholesaling passion fruit.
+- Recognized the potential for symbiotic relationships with farmers to ensure a consistent supply of passion fruit for the juice business.
+
+### Next Steps:
+
+- Begin the process of obtaining an import license for Guyana next week.
+- Consider acquiring a company cell phone to separate personal and professional communication and maintain a more professional image.
+
+### Reflection:
+
+Today's activities involved valuable market research and interactions that could lead to potential collaborations. The focus on addressing procurement challenges for an ExxonMobil-associated company and exploring opportunities in the passion fruit market aligns with the strategic growth of the business.
+
 ## November 20, 2023
 
 **Exploration of Logistics and Market Expansion:**
