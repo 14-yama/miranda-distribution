@@ -1,3 +1,44 @@
+## November 23, 2023
+
+**Strategic Planning for Autonomy and Overhead Mitigation:**
+
+### Autonomy Goals:
+
+- Aspired to make the company more autonomous with minimum personal input.
+- Explored the concept of 3PL (Third-Party Logistics) to address recurring monthly overhead costs.
+
+### Specific Challenges:
+
+1. **Transportation from Vietnam to Trinidad & Tobago:**
+   - Investigated solutions for efficient transportation of goods from Vietnam to Trinidad & Tobago.
+   - Considering 3PL providers to streamline and optimize logistics.
+
+2. **Cold Storage:**
+   - Recognized the need for cold storage solutions.
+   - Explored options, including reefer container rental, to ensure the preservation of goods.
+
+### Long-Term Plans:
+
+- Envisaged a timeline for launching passion fruit pulp in the local market and neighboring countries, estimating approximately two years for full implementation.
+
+### Challenges in the Fish Industry:
+
+- Received updates from the Guyanese supplier regarding challenges in the fish industry.
+- Identified issues such as the impact of oil exploration on fish availability and competition with Chinese merchants for quality fish.
+
+### Next Steps:
+
+1. **Research 3PL Providers:**
+   - Started researching 3PL providers to facilitate smoother logistics operations.
+   - Explored the list of freight forwarders in Trinidad, considering options like [DEE Freight](https://deefreight.com/top-10-freight-forwarders-in-trinidad-and-tobago/).
+
+2. **Contact ExxonMobil-Associated Company:**
+   - Planned to contact the ExxonMobil-associated company on Monday to discuss procurement services and explore collaboration opportunities.
+
+### Reflection:
+
+The focus on 3PL solutions aligns with the goal of achieving autonomy and minimizing direct involvement in operational processes. Addressing challenges in the fish industry requires resilience and strategic planning to ensure a steady supply chain.
+
 ## November 21, 2023
 
 **Market Research and Potential Collaborations:**
