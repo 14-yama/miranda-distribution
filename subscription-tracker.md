@@ -9,5 +9,5 @@
 ## LivePlan
 - **End Date:** 16 December 2023
 - **Subscription Status:** 
-  - [ ] Active
+  - [x] Active
   - [ ] Ended
