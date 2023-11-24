@@ -1,3 +1,57 @@
+## November 24, 2023
+
+**Passion Fruit Supplier Evaluation and Operational Efficiency:**
+
+### Supplier Communication:
+
+- Initiated contact with two Peruvian passion fruit suppliers, awaiting responses.
+- Planning to exhaust all Peruvian options before exploring alternatives in other South American countries.
+
+### Production Planning:
+
+- Estimated the initial manageable production quantity at 1000kg.
+- Recognized the importance of understanding supplier packaging for effective storage planning.
+
+### Packaging Considerations:
+
+- Estimated each 10kg bag from the supplier to be approximately 12L.
+- Need to check supplier's packaging specifications to determine how many 10kg packs can fit in a 15cft (425 L) chest freezer.
+- A [YouTube video](https://youtube.com/shorts/uxreQMDP16o?si=vcgqq2mKc2hNJdwI) demonstrates easy pre-packaging for bar cocktails, showcasing simplicity.
+
+### Energy Consumption Analysis:
+
+- Analyzed the energy consumption of the Frigidaire 14.8 Cu. Ft. chest freezer.
+- Determined the annual energy consumption to calculate the corresponding electricity cost.
+- Electricity rates: $0.32 per kWh for the first 400 units, $0.32 for units 401-600, and $0.37 for units over 600.
+- Total energy consumption for the year: [Insert Calculated Value] kWh.
+- Monthly energy cost breakdown:
+  - First 400 units: [Insert Calculated Value] kWh * $0.26
+  - Next 200 units: [Insert Calculated Value] kWh * $0.32
+  - Remaining units: [Insert Calculated Value] kWh * $0.37
+
+### Operational Efficiency Showcase:
+
+- Explored a video demonstrating pre-packaging for bar cocktails, emphasizing simplicity.
+- Aspired to implement efficient and user-friendly packaging to enhance bartender workflow when serving.
+
+### Next Steps:
+
+1. **Supplier Follow-Up:**
+   - Await responses from Peruvian suppliers and follow up if necessary.
+
+2. **Packaging Assessment:**
+   - Review supplier's packaging specifications to plan storage efficiently.
+
+3. **Energy Cost Calculation:**
+   - Calculate the annual cost of running the chest freezer based on energy consumption.
+
+4. **Operational Efficiency Implementation:**
+   - Consider incorporating efficient packaging methods demonstrated in the video into the business model.
+
+### Reflection:
+
+The focus on supplier communication, packaging evaluation, and energy cost analysis demonstrates a meticulous approach to operational planning. Emphasizing simplicity in packaging aligns with the goal of enhancing overall efficiency in the distribution process.
+
 ## November 23, 2023
 
 **Strategic Planning for Autonomy and Overhead Mitigation:**
