@@ -3,7 +3,7 @@
 | Daycare   | $950    | 28th     |
 | Rent      | $3000   | 28th     |
 | Flow      |  $242.19       | 28th     |
-| T&TEC     |         | 28th     |
+| T&TEC     |         | 25th     |
 | QuickBooks      |         | 28th     |
 
 
