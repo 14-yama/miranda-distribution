@@ -1,3 +1,54 @@
+## November 25, 2023
+
+**Market Research and Supplier Evaluation:**
+
+### Hotel and Bar Market Exploration:
+
+- Examined beverage menus at Hilton Trinidad, Hyatt Regency, and Radisson Hotel.
+- Identified common flavors and noted the prevalence of premixed bottled cocktails.
+- Plan to visit establishments for confirmation on the use of fresh fruits in cocktails.
+
+### Profitability Assessment:
+
+- Explored the potential of selling cocktail garnishes to hotels and bars.
+- Acknowledged the time-consuming nature of preparation but recognized the opportunity to introduce unique flavors and stand out.
+
+### New Menu Addition:
+
+- Intention to introduce a passion fruit strawberry lemonade with a distinctive garnish.
+- Aiming to differentiate from competitors by offering fresh and exotic flavors along with visually appealing garnishes.
+
+### Future Market Exploration:
+
+- Plan to visit other hotels for further market research.
+- Considering the sourcing of West Indian cherry in large quantities internationally.
+- Cherry and passion fruit identified as rare in the local market, creating a potential niche.
+
+### International Supplier Quote:
+
+- Received a quote from a South African supplier, [Reipasa Trading Co](https://www.reipasatradingco.co.za/).
+- Fresh Passion Fruit price: $830 USD per MT CIF destination port.
+- Currently verifying taxes on imported fruits with the broker.
+- Awaiting responses from other potential suppliers to compare pricing and assess credibility.
+
+### Next Steps:
+
+1. **Establishment Visits:**
+   - Visit other hotels to understand the exotic fruit market and potential opportunities for product placement.
+
+2. **Garnish Development:**
+   - Experiment with passion fruit strawberry lemonade recipe and design a unique garnish.
+
+3. **Cherry Sourcing:**
+   - Research international suppliers for West Indian cherry and assess feasibility.
+
+4. **Supplier Verification:**
+   - Await responses from other suppliers and verify the credibility of the South African supplier.
+
+### Reflection:
+
+The exploration of the hotel and bar market, along with potential product additions, demonstrates a commitment to innovation and differentiation. The quote from the South African supplier opens avenues for international sourcing, pending verification. The ongoing focus on market research and product development aligns with the company's goal of introducing unique and high-quality offerings.
+
 ## November 24, 2023
 
 **Passion Fruit Supplier Evaluation and Operational Efficiency:**
