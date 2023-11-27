@@ -1,3 +1,53 @@
+## November 27, 2023
+
+**Market Research and Supplier Outreach:**
+
+### Leading Cocktail Brand Discovery:
+
+- Identified "Finest Call" as a leading cocktail brand in the market.
+- Found that [Bryden](https://www.brydenstt.com/brand/finest-call/) is the distributor for Finest Call products.
+
+### Passion Fruit Supplier Outreach:
+
+- Contacted 20 potential suppliers for passion fruits.
+- Aiming to gather comprehensive information on CIF (Cost, Insurance, Freight) by the end of the week.
+
+### Reipa SA Trading Co.:
+
+- [Reipa SA Trading Co](https://www.reipasatradingco.co.za/) recognized as a responsive and favorable supplier.
+- Prompt responses and favorable prices contribute to a positive impression.
+- Comfortable with the interactions, indicating a potential partnership.
+
+### Business Insider Popsicle Feature:
+
+- Watched a [Business Insider video](https://www.youtube.com/watch?v=tsssiRbqbmI) featuring a business woman using fruits in popsicles.
+- Recognized a new opportunity to integrate imported fruits into product offerings.
+
+### Business Strategy:
+
+- Acknowledged the challenge of managing 5 metric tons of imported fruits.
+- Continued exploration for innovative ways to incorporate fruits into production and distribution channels.
+
+### Next Steps:
+
+1. **Supplier Communication:**
+   - Continue communication with Reipa SA Trading Co and gather any additional information needed for decision-making.
+
+2. **Market Research:**
+   - Gather CIF details from the remaining suppliers to compare and evaluate options.
+
+3. **Integration Opportunities:**
+   - Explore creative ways to integrate imported fruits into various products, considering the popsicle business model as inspiration.
+
+4. **Business Collaboration:**
+   - Continue exploring potential collaborations with Bryden for distribution partnerships.
+
+### Reflection:
+
+The ongoing efforts in supplier outreach and the positive interactions with Reipa SA Trading Co mark progress in the quest for reliable passion fruit sourcing. The newfound opportunity in popsicle production aligns with the strategy of diversifying product offerings. As the week unfolds, a more informed decision on passion fruit suppliers will be within reach.
+
+Feel free to provide any specific areas you'd like to focus on or if there are particular aspects that require attention!
+
 ## November 25, 2023
 
 **Market Research and Supplier Evaluation:**
