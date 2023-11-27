@@ -46,8 +46,6 @@
 
 The ongoing efforts in supplier outreach and the positive interactions with Reipa SA Trading Co mark progress in the quest for reliable passion fruit sourcing. The newfound opportunity in popsicle production aligns with the strategy of diversifying product offerings. As the week unfolds, a more informed decision on passion fruit suppliers will be within reach.
 
-Feel free to provide any specific areas you'd like to focus on or if there are particular aspects that require attention!
-
 ## November 25, 2023
 
 **Market Research and Supplier Evaluation:**
