@@ -1,3 +1,55 @@
+## November 28, 2023
+
+**Passion Fruit Import and Cold Storage Exploration:**
+
+### Customs and Freight Consultation:
+
+- Contacted [Cargo Consolidator Limited](https://cargotrinidad.com/) for insights on passion fruit import.
+- Informed about a 15% duty and 12.5% VAT on the fruit.
+- Awaiting details on necessary import permits from the broker.
+
+### Freight Estimates and Supplier Updates:
+
+- Received a freight estimate of $5100 from [Sapodaklak](http://sapodaklak.com/) for a 20ft container.
+- Explored quotes from [Southern Produce LLC](http://southern-produce.com/) with fresh passion fruit at $6.25/kg and pulp at $3.19/kg.
+- Recognized the challenge of meeting the large volume requirements for international sourcing.
+
+### Cold Storage Challenges and Solutions:
+
+- Identified the need for significant cold storage space (5.898m x 2.352m x 2.393m).
+- Realized the potential recurring overhead costs and the necessity of a generator for prolonged power outages.
+- Acknowledged challenges faced by other businesses in importing fresh produce.
+- Considering a 15cu ft chest freezer as a temporary solution until suitable cold storage facilities are established.
+
+### Website Development for Credibility:
+
+- Recognized the importance of a website for business credibility, as international suppliers request verification.
+- Explored options for cold storage facilities in Trinidad, including [Hadco Ltd](https://hadcoltd.com/divisions/logistics-services/little-woods-rentals/) and [Tiger Tanks Trinidad](https://tigertankstrinidad.com/?product=8x20-reefer-unit).
+
+### Market Research Reflection:
+
+- After 100 hours of intensive research on the fresh produce market, confidence in finding a viable solution for the unique challenges presented by exotic fruit imports.
+
+### Next Steps:
+
+1. **Import Strategy Adjustment:**
+   - Reevaluate the import strategy considering the limitations and explore local and regional sourcing options.
+
+2. **Website Development:**
+   - Prioritize the development of a business website to enhance credibility in the international market.
+
+3. **Local and Regional Partnerships:**
+   - Explore partnerships with local and regional suppliers to meet initial demand.
+
+4. **Continuous Market Research:**
+   - Continue the market research journey, seeking innovative solutions for fresh produce integration into the business.
+
+### Reflection:
+
+The exploration of passion fruit import revealed challenges in volume requirements and cold storage. Flexibility in adapting the import strategy, coupled with a temporary solution using local and regional sources, presents an opportunity to tap into the emerging market for exotic fruits. The commitment to continuous research and adaptation is key to success.
+
+Feel free to provide any specific focus areas or questions for the next log!
+
 ## November 27, 2023
 
 **Market Research and Supplier Outreach:**
