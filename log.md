@@ -48,7 +48,6 @@
 
 The exploration of passion fruit import revealed challenges in volume requirements and cold storage. Flexibility in adapting the import strategy, coupled with a temporary solution using local and regional sources, presents an opportunity to tap into the emerging market for exotic fruits. The commitment to continuous research and adaptation is key to success.
 
-Feel free to provide any specific focus areas or questions for the next log!
 
 ## November 27, 2023
 
