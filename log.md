@@ -5,7 +5,7 @@
 ### Walk-in Freezer Exploration:
 
 - Identified the potential benefits of owning a walk-in freezer rather than renting.
-- Considered the [Arctic Industries BL1010-C](https://www.kitchenall.com/arctic-industries-bl1010-c-10-x-10-indoor-walk-in-cooler-with-refrigeration.html) 3mx3m size with an estimated cost of $16,000 FOB.
+- Considered the [Arctic Industries BL1010-C](https://www.kitchenall.com/arctic-industries-bl1010-c-10-x-10-indoor-walk-in-cooler-with-refrigeration.html) 3mx3m size with an estimated cost of $16,000USD FOB.
 - Calculated a monthly cost of approximately $477.84 at a rate of $0.37 TTD per kWh.
 - Contemplated the option of an Outdoor Walk-In to avoid additional facility rental costs.
 
