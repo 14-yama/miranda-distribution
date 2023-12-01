@@ -11,7 +11,7 @@
 
 ### Initial Facility Setup:
 
-- Decided to purchase a 25cu ft chest freezer as an interim solution before committing to a larger facility.
+- Decided to purchase a 15cu ft chest freezer as an interim solution before committing to a larger facility.
 - Considered pros and cons of indoor and outdoor walk-in freezers for long-term storage needs.
 
 ### Product Ideas and Distribution Planning:
