@@ -1,3 +1,48 @@
+## December 2, 2023
+
+**Walk-in Freezer Research and Equipment Considerations:**
+
+### Walk-in Freezer Insights:
+
+- Continuing research on walk-in freezers, realizing the feasibility of ownership.
+- Discovered the necessity of a commercial low-profile evaporation and condenser unit for electrical requirements.
+- Understanding the importance of insulation, with recommendations for 4-6 inch dry foam in the housing.
+
+### CoolBot for Walk-in Cooler Conversion:
+
+- Explored the [CoolBot](https://www.storeitcold.com/) as a budget-friendly solution to convert a regular AC unit into a cooler.
+- Noted positive reviews of the CoolBot, considering it as a potential component for the walk-in cooler.
+
+### Commercial Evaporator and Condenser Suppliers:
+
+- Investigated suppliers for commercial evaporator and condenser units:
+  - [Nor-Lake Products](https://norlake.com/nor-lake-products/foodservice/products/split-pak-pre-assembled-remote-refrigeration-systems/)
+  - [Rudy's Refrigeration](https://rudysrefrigeration.com/product/lzt025l6b-condensing-unit-for-walk-in-freezer/)
+  - [US Cooler](https://www.uscooler.com/products-2/walk-in-refrigeration-systems/)
+
+### Insightful Temperature Recommendations:
+
+- Received valuable insights from Cryo Systems on recommended temperatures for fruits and vegetables.
+- Acknowledged the importance of choosing units that align with specific temperature requirements.
+
+### Next Steps:
+
+1. **Detailed Cost Estimation:**
+   - Conduct a detailed cost estimation for the entire walk-in freezer setup, including insulation, equipment, and installation.
+
+2. **CoolBot Evaluation:**
+   - Further evaluate the CoolBot's compatibility and effectiveness for the intended walk-in cooler.
+
+3. **Supplier Communications:**
+   - Reach out to potential suppliers for additional information, quotes, and specifications.
+
+4. **Temperature Control Planning:**
+   - Plan the temperature control settings based on Cryo Systems' recommendations for different fruits and vegetables.
+
+### Reflection:
+
+The exploration of equipment options, especially the CoolBot conversion for walk-in coolers, opens up cost-effective possibilities for achieving the desired storage conditions. Engaging with suppliers and fine-tuning temperature control plans will be crucial steps in finalizing the walk-in freezer setup.
+
 ## November 30, 2023
 
 **Walk-in Freezer Considerations and Business Expansion:**
