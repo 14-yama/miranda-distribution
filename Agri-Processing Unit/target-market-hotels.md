@@ -9,11 +9,9 @@
 | **Courtyard by Marriott Port of Spain** | Invaders Bay, Audrey Jeffers Highway          |
 | **Kapok Hotel**                        | 16–18 Cotton Hill St Clair                    |
 | **Radisson Hotel Trinidad**            | Wrightson Road                                |
-| **Cara Suites Hotel and Conference Centre** | Claxton Bay                                |
 | **Marriott Port of Spain**             | Invaders Bay, Audrey Jeffers Highway          |
 | **L’Orchidée Boutique Hotel**          | 3 Coblentz Gardens, Cascade                   |
 | **The Carlton Savannah**               | 2 Coblentz Avenue, Cascade                    |
-| **Kapok Hotel**                        | 16-18 Cotton Hill, St. Clair                  |
 | **Halyconia Inn**                      | 24 Methuen Street, Woodbrook                  |
 | **The Normandie Hotel**                | 10 Nook Avenue, St. Ann's                     |
 | **Savannah Maison Guest House**        | 19 De Verteuil Street, Woodbrook              |
