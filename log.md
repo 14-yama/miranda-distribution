@@ -1,3 +1,48 @@
+## December 11, 2023
+
+### Market Research for Agri-Processing Unit:
+
+**1. Extra FoodsSupermarket:**
+   - Visited Extra Foods and identified three brands offering popsicles, with limited natural flavors.
+   - [Bryden Trinidad](https://www.brydenstt.com/brand/bon-ice-cream/) distributes Bon popsicles, primarily artificial flavors.
+   - Observed a local company selling frozen mango and papaya puree, along with imported fruits like strawberry, blueberry, and raspberry.
+   - Identified an opportunity to introduce West Indian cherry and other exotic fruits regionally.
+
+**2. Hilton Trinidad:**
+   - Explored Hilton Trinidad's offerings.
+   - [Orchards Box Juice](https://www.nestle-caribbean.com/brands/allbrands/orchard-juice-drinks) is their primary juice supplier.
+   - Fresh Connections in the hotel sells fruit cups, with a blend of watermelon and pineapple.
+   - Identified a need for a convincing selling strategy to supply fresh juice.
+   - Bartender revealed the use of [Island Oasis](https://www.kerryfoodservice.com/collections/island-oasis?limit=24&scroll=2272.727294921875) puree for cocktails.
+
+**3. Hyatt Regency Trinidad:**
+   - Discovered the absence of fresh juice service.
+   - [Florida’s Natural](https://floridasnatural.com/our-juices/orange-juices) orange juice offered in a bottle.
+
+**4. Strategy and Planning:**
+   - Recognized the need for a production facility with high standards to supply hotels.
+   - Acknowledged the importance of adding value to products, considering garnishes.
+   - Planning to maximize regional suppliers before international imports.
+   - Identified the need for a [dry ice machine](https://www.storeitcold.com/) for product distribution.
+   - Considering the use of [CFS Couriers](https://domestic.csfcouriersltd.com/) for delivery, using foam boxes packed with dry ice.
+   - Planning for two walk-in freezers, one for fresh fruits and the other for frozen products.
+
+**5. Business Plan Development:**
+   - Decided to commit an additional 100 hours to comprehensive market research.
+   - Aiming to compile a detailed business plan for the agri-processing unit.
+   - Resuming Distribution and Procurement & Logistics units in March 2024, allowing focused attention on agri-processing.
+
+**6. Overall Reflection:**
+   - Acknowledging that the exotic fruits and byproduct market is competitive.
+   - Seeking a distinctive position as the go-to company for exotic fruits.
+   - Recognizing the importance of time and effort in developing a profitable agri-processing unit.
+   - Juice storage and easy serving methods must be offered to large scale establishments
+
+**Next Steps:**
+   - Continue market research, focusing on comprehensive data collection.
+   - Compile a detailed business plan for the agri-processing unit.
+   - Explore potential regional suppliers for exotic fruits.
+
 ## December 2, 2023
 
 **Walk-in Freezer Research and Equipment Considerations:**
