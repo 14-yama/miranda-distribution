@@ -2,4 +2,7 @@
 - dehydrated fruits
 
 - avocado + lime + coconut popsicle
-- coconute + lime + pineapple popsicle
+- coconut + lime + pineapple popsicle
+- coconut + lime
+- mango + passion fruit + milk
+- 
