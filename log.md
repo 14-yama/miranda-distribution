@@ -1,4 +1,42 @@
-## December 11, 2023
+## December 9, 2023
+
+### Utilizing Regional Fruit Suppliers for Agri-Processing:
+
+**1. Regional Fruit Sources:**
+   - Identified potential regional fruit suppliers for the agri-processing unit.
+   - Grenada: Avocados, mangoes, and limes can be easily sourced.
+   - Guyana: Abundance of pineapples.
+   - Considering brainstorming sessions to explore various product possibilities from these fruits.
+
+**2. Import Logistics:**
+   - Decided on using air transport for coconut meat from Guyana.
+   - Considering boat transport for fruit imports from Grenada.
+
+**3. Processing Methods:**
+   - Gathered insights from [Yummy GO's video](https://www.youtube.com/watch?v=ZfFbLMg-NMU) on Asian coconut processing.
+   - Planning to adopt similar methods at the processing facility for fresh coconuts.
+
+**4. Business Expansion:**
+   - Intention to export products regionally.
+   - Acknowledged the need to work on logistics and distribution strategies for regional exports.
+
+**5. Challenges and Solutions:**
+   - Identified concerns about the rejection of fresh coconut imports from Grenada by plant quarantine.
+   - Determined to investigate and understand the reasons behind the rejection.
+   - Aiming to find loopholes or alternative processing methods to facilitate successful imports.
+
+**Reflection:**
+   - Recognizing the importance of addressing import challenges and understanding regulatory requirements.
+   - Acknowledging the need for a detailed plan for regional exports to ensure smooth business expansion.
+   - Excited about the potential product diversification opportunities from regional fruits.
+
+**Next Steps:**
+   - Conduct brainstorming sessions for product diversification using avocados, mangoes, limes, and pineapples.
+   - Research and understand the rejection reasons for fresh coconut imports from Grenada.
+   - Develop a comprehensive plan for the processing facility, considering logistics for regional exports.
+
+
+## December 6, 2023
 
 ### Market Research for Agri-Processing Unit:
 
