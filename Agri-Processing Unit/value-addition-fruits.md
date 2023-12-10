@@ -1,4 +1,5 @@
-- fruit popsicle
+
 - dehydrated fruits
-- mocktail mix
-- 
+
+- avocado + lime + coconut popsicle
+- coconute + lime + pineapple popsicle
