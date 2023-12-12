@@ -1,3 +1,39 @@
+## December 12, 2023
+
+### Exploring Mexican Popsicles (Paletas) and Business Insights:
+
+**1. Discovery of Mexican Popsicles:**
+   - Identified the base ingredients for Mexican popsicles (paletas): whipped cream and milk.
+   - Noted the emphasis on using fresh fruits to create popsicles with diverse flavors and designs tailored for different age groups.
+
+**2. Profitability Assessment:**
+   - Recognized the potential profitability of the popsicle business, considering the broad appeal of colorful and exotic flavors.
+   - Acknowledged the importance of establishing a robust supply chain for raw materials.
+
+**3. Product Differentiation:**
+   - Understanding the importance of differentiation based on age groups. Kid-friendly popsicles with vibrant colors and decorations, while adult options feature exotic tastes like roasted corn with chili pepper.
+
+**4. Storage and Distribution:**
+   - Emphasized the significance of efficient storage solutions to maintain the quality of raw materials.
+   - Expressed a preference for avoiding traditional retailing methods, exploring alternatives such as vending machines.
+   - Aiming to find a distribution channel that minimizes the need for constant inventory monitoring.
+
+**5. Business Strategy:**
+   - Highlighted the need for a solid distribution strategy that aligns with personal preferences and business efficiency.
+   - Considering options that streamline the sales process and maximize reach without heavy reliance on supermarkets.
+
+**Reflection:**
+   - Excitement about the potential profitability and creativity in the Mexican popsicle business.
+   - Acknowledging the need for strategic decisions in supply chain management and distribution channels.
+   - Identifying the importance of storage solutions to maintain the quality of ingredients.
+
+**Next Steps:**
+   - Research and establish a reliable supply chain for quality raw materials.
+   - Explore storage options that align with the business scale and requirements.
+   - Investigate alternative distribution channels that match the business model.
+   - Develop a comprehensive business plan integrating these insights.
+
+
 ## December 9, 2023
 
 ### Utilizing Regional Fruit Suppliers for Agri-Processing:
