@@ -10,7 +10,6 @@ The passive income scale, ranging from 1 to 6, is a measure of the level of dire
 - **5:** Bi-monthly.
 - **6:** Monthly.
 
----
 
 ## Glamping Business Model
 
@@ -54,7 +53,6 @@ The passive income scale, ranging from 1 to 6, is a measure of the level of dire
 - Conduct regular customer feedback surveys for continuous improvement.
 - Explore eco-friendly certifications for sustainability.
 
----
 
 ## Miranda Distribution Limited: Agriprocessing Business Model
 
@@ -82,7 +80,6 @@ The passive income scale, ranging from 1 to 6, is a measure of the level of dire
 - Implement a loyalty program for recurring customers.
 - Research and incorporate sustainable packaging options.
 
----
 
 ## Tradewinds Logistics Limited
 
