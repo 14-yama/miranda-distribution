@@ -1,3 +1,4 @@
+
 ## December 30, 2023
 
 ### Business Model Review and Focus on Real Estate:
