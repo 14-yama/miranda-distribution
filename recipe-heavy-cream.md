@@ -16,3 +16,22 @@
 
 - **Ratio**: 3 parts cream to 1 part milk
 - **Percentage**: Approximately 75% cream, 25% milk
+
+### Formula for Making Heavy Cream
+
+To make heavy cream from the cream you have, follow this formula:
+
+M = (C * B) / (100 - B)
+
+- M is the weight of the additional milk (in grams) needed to dilute the cream.
+- C is the weight of the cream you have (in grams).
+- B is the desired percentage of butterfat in the heavy cream.
+
+To use the formula:
+1. Determine the weight of the cream you have (denoted as C).
+2. Decide on the desired percentage of butterfat in your heavy cream (denoted as B).
+3. Plug in the values of C and B into the formula to calculate the weight of additional milk (M) needed.
+4. Mix the calculated amount of additional milk with the cream to achieve the desired consistency and fat content for heavy cream.
+
+Adjust the ratio of cream to milk according to your preferences for richness and creaminess.
+
