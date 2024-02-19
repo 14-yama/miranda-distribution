@@ -17,5 +17,9 @@
 - Ms. Shania Bharat
   - Office: Tel: 638-2022 – Ext. 1143
   - email: ccsales@cansnack.com
+ 
+- Ms. Richards (Exports Division)
+   - Office: Tel: 638-2022 – Ext. 1113
+
 
 
