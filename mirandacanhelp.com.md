@@ -9,3 +9,4 @@ With Miranda at the helm, [MirandaCanHelp.com](https://mirandacanhelp.com) is mo
 
 - [Brand Inspiration](https://www.youtube.com/watch?v=g5frmwA6wag)
 - [Caribbean Theme Illustration](https://pin.it/77owlCZdS)
+- [Caribbean: Everyday life & commerce](https://www.pinterest.com/jeltonmentore/caribbean-vibes/)
