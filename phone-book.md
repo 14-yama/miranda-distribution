@@ -20,6 +20,11 @@
  
 - Ms. Richards (Exports Division)
    - Office: Tel: 638-2022 – Ext. 1113
+ 
+ ## Export TT (COO)
+- Ms. Shelly
+  - Office: Tel: 638-2022 – Ext. 7878 or 7870
+
 
 
 
