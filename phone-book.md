@@ -23,7 +23,7 @@
  
  ## Export TT (COO)
 - Ms. Shelly
-  - Office: Tel: 638-2022 – Ext. 7878 or 7870
+  - Office: Tel: 612-3988 – Ext. 7878 or 7870
 
 
 
