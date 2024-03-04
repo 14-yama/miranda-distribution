@@ -9,8 +9,8 @@
 - Steven Ali : Sales
   - Phone: 706-8400
  
-  - Ms. Edwards : Exports
-    - Office: Tel: 638-2022 – Ext. 8501
+  - Ms. Indera : Exports
+    - Office: Tel: 640-2482 – Ext. 8501
 
  
 ## Charles Candy/ Devon Biscuits / Cereals Divisions
