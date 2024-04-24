@@ -1,8 +1,8 @@
 # Phone Book
 
 ## S.M Jaleel
-- Ms. Leana: Distribution Dispatcher
-  - Office: 360-0940
+- Ms. Leona: Distribution Dispatcher
+  - Office: 375-1100
   - Port Delivery:
   - 
 ## Solo Berverage
